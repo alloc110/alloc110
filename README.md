@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/alloc110](https://github.com/alloc110)
 
-- 📫 How to reach me **nguyenhtloc110@gmai.com**
+- 📫 How to reach me **nguyenhtloc110@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
