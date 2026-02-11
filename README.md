@@ -1,39 +1,42 @@
 <h1 align="center">Hi 👋, I'm Nguyen Hung Thien Loc (alloc110)</h1>
-<h3 align="center">Data Engineer Intern | Competitive Programmer | Problem Solver</h3>
+<h3 align="center">Data Engineer | Competitive Programmer | Keyboard Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alloc110&label=Profile%20views&color=0e75b6&style=flat" alt="alloc110" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alloc110&theme=tokyonight&column=7&margin-w=15&no-bg=true" alt="alloc110" /></a>
+</p>
+
 ---
 
 ### 🚀 About Me
-[cite_start]I am a Computer Science student at **HCM Open University**[cite: 4, 5]. My expertise lies at the intersection of **Competitive Programming** and **Modern Data Engineering**. I am passionate about building high-performance data pipelines and scalable microservices.
+[cite_start]I am a Computer Science student at **HCM Open University**[cite: 4, 5, 8]. My core strength lies at the intersection of **Competitive Programming** and **Modern Data Engineering**. I thrive on building high-performance data pipelines and scalable systems.
 
-- [cite_start]🏆 **National Informatics Olympiad 2024 Bronze Medalist**.
-- [cite_start]🌍 **ICPC Asia Regional Contest** Participant (2024, 2025).
-- [cite_start]🔭 I’m currently building a **Streaming Analytics** system for Fraud Detection[cite: 31].
-- [cite_start]🌱 I’m mastering **Kubernetes, Apache Flink, and Spark**[cite: 25, 34, 35].
-- [cite_start]👨‍💻 All of my projects are available at [github.com/alloc110](https://github.com/alloc110)[cite: 20].
-- [cite_start]📫 Reach me at: **nguyenhtloc110@gmail.com**[cite: 18].
+- [cite_start]🥉 **Bronze Medalist** at the National Informatics Olympiad 2024 (Top 88/235)[cite: 23].
+- [cite_start]🌍 **ICPC Asia Regional Contest** participant in 2024 and 2025[cite: 23].
+- [cite_start]🛠️ Currently architecting a **Lambda Architecture** system for fraud detection using **Flink** and **Spark**[cite: 31, 34, 35].
+- [cite_start]🌱 Deepening my expertise in **Kubernetes, Kafka, and Airflow**[cite: 25, 36, 37].
+- [cite_start]👨‍💻 Exploring **LLM integrations** with the Gemini AI API for unstructured data analysis[cite: 26, 29].
 
 ---
 
 ### 🏆 Professional Highlights
-* [cite_start]**Bronze Medal** (Top 88/235) - National Informatics Olympiad 2024.
-* [cite_start]**Second Place** - University-level Olympiad 2024.
-* [cite_start]**AWS Certified** - Data Engineering on AWS Foundations[cite: 38, 39].
+- [cite_start]**Bronze Medal** – National Informatics Olympiad 2024[cite: 23].
+- [cite_start]**Second Place** – University-level Olympiad 2024[cite: 23].
+- [cite_start]**AWS Certified** – Data Engineering on AWS Foundations[cite: 38, 39].
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠 Tech Stack
 
-| Category | Tools |
+| Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="30"/> |
-| **Data Eng** | <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" width="30"/> <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="30"/> |
-| **DevOps** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="30"/> |
-| **Databases** | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="30"/> |
+| **Languages** | [cite_start]Python, C/C++, Java, C#, SQL [cite: 42] |
+| **Data Eng** | [cite_start]Apache Spark, Apache Flink, Apache Kafka, Airflow, Hive [cite: 34, 37, 42] |
+| **Infrastructure** | [cite_start]AWS, Docker, Kubernetes, Jenkins, Linux [cite: 25, 28, 42] |
+| **Databases** | [cite_start]PostgreSQL, MySQL, SQL Server, MinIO [cite: 35, 42] |
 
 ---
 
@@ -45,9 +48,10 @@
 
 ---
 
-### 🧩 Beyond Coding
-* ⌨️ **Mechanical Keyboard Enthusiast:** Love building custom 65-75% kits.
-* 📈 **Financial Data:** Building personal finance dashboards in **Notion** and analyzing stocks with Python.
+### 🧩 Personal Interests & Projects
+- ⌨️ **Custom Keyboards:** Passionate about building budget-friendly custom mechanical keyboard kits, especially 65-75% layouts.
+- 📉 **Financial Engineering:** Built a comprehensive financial management dashboard in **Notion** and analyzed stock trends using **Python** (`yfinance`).
+- 🤖 **Deep Learning:** Interested in stock price prediction using machine learning and deep learning models.
 
 ---
 
