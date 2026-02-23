@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nguyen Hung Thien Loc (alloc110)</h1>
-<h3 align="center">Data Engineer | Competitive Programmer | Keyboard Enthusiast</h3>
+<h3 align="center">Data Engineer | Competitive Programmer </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alloc110&label=Profile%20views&color=0e75b6&style=flat" alt="alloc110" />
