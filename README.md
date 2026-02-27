@@ -26,10 +26,8 @@
 ---
 
 ### 📊 GitHub Stats & Achievements
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=alloc110&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=alloc110&theme=dracula&hide_border=false" height="165" alt="streak stats" />
-</div>
 
 ---
 
