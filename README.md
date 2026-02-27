@@ -66,6 +66,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/alloc110/alloc110/output/snake.svg" alt="Snake animation" />
-
+![Snake animation](https://raw.githubusercontent.com/alloc110/alloc110/output/snake.svg)
 ###
