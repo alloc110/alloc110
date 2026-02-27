@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thien Loc</h1>
-<h3 align="center">"Học, học nữa, học mãi." — V.I. Lenin</h3>
+<h3 align="center">Keep Learning, Keep coding</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alloc110&label=Profile%20views&color=0e75b6&style=flat-square" alt="alloc110" />
 </p>
