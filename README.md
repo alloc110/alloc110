@@ -26,6 +26,7 @@
 ---
 
 ### 📊 GitHub Stats & Achievements
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alloc110&theme=dracula&hide_border=false" height="165" alt="streak stats" />
