@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Thien Loc</h1>
+<h1 align="center">Hi 👋, I'm Thien Loc(Alloc)</h1>
 <h3 align="center">Keep Learning, Keep coding</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alloc110&label=Profile%20views&color=0e75b6&style=flat-square" alt="alloc110" />
@@ -26,16 +26,6 @@
 ---
 
 ### 📊 GitHub Stats & Achievements
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alloc110&theme=dracula&column=7&margin-w=15" alt="trophies" />
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alloc110&show_icons=true&locale=en&layout=compact&theme=dracula" height="165" alt="top langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=alloc110&show_icons=true&locale=en&theme=dracula" height="165" alt="github stats" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=alloc110&theme=dracula&hide_border=false" height="165" alt="streak stats" />
