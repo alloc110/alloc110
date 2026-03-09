@@ -1,14 +1,15 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
-
-  workflow_dispatch:
+  schedule:
+    # Chạy vào phút thứ 0, mỗi 12 tiếng (00:00 và 12:00)
+    - cron: "0 */12 * * *"
+  
+  workflow_dispatch: # Cho phép bấm nút chạy thủ công
 
   push:
     branches:
-    - main
+    - main # Chạy mỗi khi Lộc push code mới lên main
 
 jobs:
   generate:
@@ -18,17 +19,23 @@ jobs:
     timeout-minutes: 5
 
     steps:
+      # 1. Tạo file snake.svg
       - name: generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/snake.svg?palette=github-dark
+          # Tạo ra 2 bản: sáng và tối để tự thích ứng với giao diện người xem
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
 
-
+      # 2. Đẩy file lên nhánh output
       - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
+          publish_branch: output
+          fqdn: "" # Để trống nếu không dùng custom domain
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
