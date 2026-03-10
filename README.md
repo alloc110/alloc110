@@ -38,4 +38,4 @@
 <a href="https://www.leetcode.com/ou_thienloc" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="ou_thienloc" height="30" /></a>
 </p>
 
-![snake](https://raw.githubusercontent.com/alloc110/alloc110/output/snake.svg)
+![snake](https://raw.githubusercontent.com/alloc110/alloc110/output/github-snake.svg)
