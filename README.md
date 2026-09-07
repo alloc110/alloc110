@@ -1,6 +1,6 @@
 <!-- Notion Cover Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=2F3437&height=125&section=header&text=Nguy%E1%BB%85n%20H%C3%B9ng%20Thi%E1%BB%87n%20L%E1%BB%99c&fontSize=30&fontColor=F7F6F3&desc=Data%20Engineer%20%E2%80%A2%20Real-Time%20Systems%20%E2%80%A2%20Stream%20Processing&descSize=13&descAlignY=68&descAlign=50" width="100%" alt="Notion Cover Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2F3437&height=125&section=header&text=Nguy%E1%BB%85n%20H%C3%B9ng%20Thi%C3%AAn%20L%E1%BB%99c&fontSize=30&fontColor=F7F6F3&desc=Data%20Engineer%20%E2%80%A2%20Real-Time%20Systems%20%E2%80%A2%20Stream%20Processing&descSize=13&descAlignY=68&descAlign=50" width="100%" alt="Notion Cover Banner" />
 </div>
 
 <br/>
@@ -10,7 +10,7 @@
   <tr>
     <td width="66%" valign="middle" align="left">
       <p><code>workspace / data-engineering / real-time-systems</code></p>
-      <h2>Nguyễn Hùng Thiện Lộc <img src="./assets/wave.gif" width="28px" alt="wave" /></h2>
+      <h2>Nguyễn Hùng Thiên Lộc <img src="./assets/wave.gif" width="28px" alt="wave" /></h2>
       <p>
         <a href="https://git.io/typing-svg">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=8B949E&center=false&vCenter=true&width=530&lines=Data+Engineer+%7C+Real-Time+Stream+Processing;Architecting+Kafka+%E2%80%A2+PyFlink+%E2%80%A2+Kubernetes;Engineering+Sub-Second+Latency+Pipelines;Turning+Raw+Streams+into+Actionable+Intelligence" alt="Typing SVG" />
