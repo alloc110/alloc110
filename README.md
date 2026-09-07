@@ -1,124 +1,68 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Thien Loc (Alloc) and I'm a Data Engineer fresher, from Vietnam</h2>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/alloc110/alloc110/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<!-- Notion Cover Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=2F3437&height=125&section=header&text=Nguy%E1%BB%85n%20H%C3%B9ng%20Thi%E1%BB%87n%20L%E1%BB%99c&fontSize=30&fontColor=F7F6F3&desc=Data%20Engineer%20%E2%80%A2%20Real-Time%20Systems%20%E2%80%A2%20Stream%20Processing&descSize=13&descAlignY=68&descAlign=50" width="100%" alt="Notion Cover Banner" />
 </div>
 
-###
+<br/>
 
-<img data-importer="image" align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3FxaXd5NjQzd2EwbHRmaWZnNzAycHlveG93OHA5dXg2eDV3dnFwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/x0EASzgqjpvVrYjzvk/giphy.gif"  />
+<!-- Notion Document Breadcrumb & Header -->
+<table border="0" width="100%">
+  <tr>
+    <td width="66%" valign="middle" align="left">
+      <p><code>workspace / data-engineering / real-time-systems</code></p>
+      <h2>Nguyễn Hùng Thiện Lộc <img src="./assets/wave.gif" width="28px" alt="wave" /></h2>
+      <p>
+        <a href="https://git.io/typing-svg">
+          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=3000&pause=1000&color=8B949E&center=false&vCenter=true&width=530&lines=Data+Engineer+%7C+Real-Time+Stream+Processing;Architecting+Kafka+%E2%80%A2+PyFlink+%E2%80%A2+Kubernetes;Engineering+Sub-Second+Latency+Pipelines;Turning+Raw+Streams+into+Actionable+Intelligence" alt="Typing SVG" />
+        </a>
+      </p>
+      <p>
+        <em>Specializing in resilient distributed architectures, event-driven pipelines, and high-throughput stream processing. Building fault-tolerant systems that operate with sub-second latency.</em>
+      </p>
+      <p>
+        <a href="mailto:nguyenhtloc110@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-2F3437?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail" />
+        </a>
+        <a href="https://www.linkedin.com/in/thienloc-alloc" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-2F3437?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+        </a>
+        <a href="https://github.com/alloc110">
+          <img src="https://img.shields.io/badge/GitHub-2F3437?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+        </a>
+      </p>
+    </td>
+    <td width="34%" valign="middle" align="center">
+      <img src="./assets/Happy Fun GIF.gif" width="220" alt="Notion Cat Workspace" />
+    </td>
+  </tr>
+</table>
 
-###
+---
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="30" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="apachekafka logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="30" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" height="30" alt="grafana logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="30" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="30" alt="prometheus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="30" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" height="30" alt="sqlalchemy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="30" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="30" alt="trello logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="30" alt="ubuntu logo"  />
+### 📊 GitHub Activity & Metrics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=alloc110&theme=dark&hide_border=false" alt="alloc110's GitHub Streak" height="165" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://raw.githubusercontent.com/alloc110/alloc110/languages-output/languages.svg" alt="Top Languages" height="165" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-###
+<br/>
 
-<div data-importer="socials" align="left">
+<!-- Snake Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/alloc110/alloc110/snake-output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
-###
+<br/>
 
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/alloc110/alloc110/snake-output/snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <sub>☕ <em>"Turning raw streaming data into resilient, high-speed business value."</em> ☕</sub>
+</div>
