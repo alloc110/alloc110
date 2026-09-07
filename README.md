@@ -23,7 +23,7 @@
         <a href="mailto:nguyenhtloc110@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-2F3437?style=flat-square&logo=gmail&logoColor=EA4335" alt="Gmail" />
         </a>
-        <a href="https://www.linkedin.com/in/thienloc-alloc" target="_blank">
+        <a href="https://www.linkedin.com/in/nguyenhtloc110" target="_blank">
           <img src="https://img.shields.io/badge/LinkedIn-2F3437?style=flat-square&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
         </a>
         <a href="https://github.com/alloc110">
